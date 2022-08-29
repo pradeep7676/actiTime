@@ -40,7 +40,11 @@ class Test_Actitime(BasePage):
         '''To click on users icon'''
         userPage.users_icon().click()
         '''To click on new user button'''
+        user = self.driver.title
+        assert user == TestData.USER_PAGE_TITLE
+        log.info("userpage title verified")
         userPage.new_user().click()
+
         time.sleep(5)
         '''To enter first,last and email'''
         userPage.first_name().send_keys(params['firstname'])
@@ -50,6 +54,7 @@ class Test_Actitime(BasePage):
         '''To select which department'''
         userPage.department().click()
         userPage.adding_to_depart().click()
+
         '''To save new user'''
         userPage.save_button().click()
         text = userPage.verify().text
@@ -60,14 +65,18 @@ class Test_Actitime(BasePage):
 
         '''initialize Delete user page object'''
         delete_user = DeleteUserPage(self.driver)
+
         '''To click on search icon'''
         delete_user.search_icon().click()
-        '''To enter user name which we have delete'''
+
+        '''To enter user name which we have to delete'''
         delete_user.search_by_name().send_keys(params['userdelete'])
         delete_user.click_on_user().click()
         time.sleep(4)
+
         '''to click on delete button'''
         delete_user.delete_button().click()
+
         '''to handle alert'''
         alert = self.driver.switch_to.alert
         alert_text = alert.text
@@ -75,21 +84,24 @@ class Test_Actitime(BasePage):
         alert.accept()
         log.info("successfully deleted the user")
 
-        '''initialize DepartmentPage object'''
+        '''Initialize DepartmentPage object'''
         department_obj = DepartmentPage(self.driver)
+
         '''To click on department'''
         time.sleep(4)
         department_obj.click_on_department().click()
+
         '''To create new Department'''
         department_obj.add_department_name().send_keys(params['departmentname'])
         department_obj.add_department_name().send_keys(Keys.ENTER)
-        #textS = department_obj.text1()
         time.sleep(4)
         department_obj.delete_department().click()
         department_obj.close().click()
-        #department_obj.delete_confirmation().click()
+        department_obj.delete_confirmation().click()
         log.info("Successfully deleted the department")
 
+        '''To click on logout'''
         login_obj.logout().click()
+        log.info("logout from the application successfully")
 
 
