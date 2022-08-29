@@ -97,7 +97,7 @@ class Test_Actitime(BasePage):
         time.sleep(4)
         department_obj.delete_department().click()
         department_obj.close().click()
-        department_obj.delete_confirmation().click()
+        #department_obj.delete_confirmation().click()
         log.info("Successfully deleted the department")
 
         '''To click on logout'''
