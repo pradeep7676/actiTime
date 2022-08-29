@@ -90,4 +90,6 @@ class Test_Actitime(BasePage):
         #department_obj.delete_confirmation().click()
         log.info("Successfully deleted the department")
 
+        login_obj.logout().click()
+
 

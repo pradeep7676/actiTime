@@ -9,6 +9,7 @@ class LoginPage(BasePage):
     USER_NAME = (By.ID, "username")
     PASSWORD = (By.CSS_SELECTOR , "input[name='pwd']")
     LOGIN_BUTTON = (By.ID, "loginButton")
+    LOGOUT = (By.ID, "logoutLink")
 
 
     def __init__(self, driver):
@@ -24,6 +25,10 @@ class LoginPage(BasePage):
 
     def login_button(self):
         return self.driver.find_element(*LoginPage.LOGIN_BUTTON)
+
+    def logout(self):
+        self.wait_presence(LoginPage.LOGOUT)
+        return self.driver.find_element(*LoginPage.LOGOUT)
 
 
 
