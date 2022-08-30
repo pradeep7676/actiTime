@@ -7,7 +7,6 @@ from selenium.webdriver.common.by import By
 from Config.config import TestData
 from Pages.AddNewUsers import UserPage
 from Pages.DeletingUsers import DeleteUserPage
-from Pages.Department import DepartmentPage
 from Pages.LoginPage import LoginPage
 from Pages.TaskPage import TaskPage
 from Utilities.BasePage import BasePage
@@ -53,8 +52,11 @@ class Test_Actitime(BasePage):
 
         time.sleep(5)
         '''To enter first,last and email'''
+        userPage.first_name().clear()
         userPage.first_name().send_keys(params['firstname'])
+        userPage.last_name().clear()
         userPage.last_name().send_keys(params['lastname'])
+        userPage.email().clear()
         userPage.email().send_keys(params['email'])
 
         '''To select which department'''
@@ -62,6 +64,7 @@ class Test_Actitime(BasePage):
         userPage.adding_to_depart().click()
 
         '''To save new user'''
+        self.waiting_until_item_enabled(userPage.save_button())
         userPage.save_button().click()
         text = userPage.verify().text
         assert text in "created"
@@ -81,6 +84,7 @@ class Test_Actitime(BasePage):
         time.sleep(4)
 
         '''to click on delete button'''
+        self.waiting_until_item_enabled(delete_user.delete_button())
         delete_user.delete_button().click()
 
         '''to handle alert'''
@@ -126,6 +130,7 @@ class Test_Actitime(BasePage):
 
         '''To enter task name'''
         task_obj.task_name().send_keys("login")
+        self.waiting_until_item_enabled( task_obj.create_project())
         task_obj.create_project().click()
         log.info("project created successfully")
 
@@ -136,7 +141,9 @@ class Test_Actitime(BasePage):
 
         '''To click on action and delete button'''
         time.sleep(3)
+        self.waiting_until_item_enabled(task_obj.actions())
         task_obj.actions().click()
+        self.waiting_until_item_enabled(task_obj.delete())
         task_obj.delete().click()
         task_obj.scroll()
         task_obj.delete_confirmation().click()

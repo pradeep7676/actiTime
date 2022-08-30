@@ -1,11 +1,11 @@
-from selenium.webdriver.common.by import By
+'''from selenium.webdriver.common.by import By
 
 from Pages.AddNewUsers import UserPage
 from Utilities.BasePage import BasePage
 
 
 class DepartmentPage(BasePage):
-    '''LOCATORS'''
+
     CLICK_ON_DEPARTMENT = (By.XPATH, "//div[@class='userList_manageButtons_component_manageGroupsButton']//div[contains(@class,'userList_manageButtons_component_groupItem department')][normalize-space()='Departments']")
     NEW_DEPARTMENT_NAME = (By.ID, "groupManagementLightBox_newGroupInput")
     TEXT1= (By.XPATH, "//table[@class='entityTable']/tr")
@@ -36,4 +36,4 @@ class DepartmentPage(BasePage):
         return self.driver.find_element(*DepartmentPage.DELETE_CONFIRMATION)
 
     def close(self):
-        return self.driver.find_element(*DepartmentPage.CLOSE)
+        return self.driver.find_element(*DepartmentPage.CLOSE)'''

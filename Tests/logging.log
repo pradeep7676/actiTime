@@ -314,3 +314,32 @@
 2022-08-30 09:44:37,788 :INFO : test_e2e :Successfully added the new user
 2022-08-30 09:44:43,201 :INFO : test_e2e :successfully deleted the user
 2022-08-30 09:44:47,906 :INFO : test_e2e :project created successfully
+2022-08-30 10:07:13,567 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 10:07:13,713 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="c52fa8ab-b39f-4529-b591-e1c76de77768")> : is Waiting for Enable
+2022-08-30 10:07:13,757 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 10:07:13,762 :INFO : test_e2e :successfully verified home page 
+2022-08-30 10:07:21,550 :INFO : test_e2e :userpage title verified
+2022-08-30 10:07:27,044 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="9bc8b6d5-7033-433c-b593-83eac9064a2c")> : is Waiting for Enable
+2022-08-30 10:07:27,044 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="9bc8b6d5-7033-433c-b593-83eac9064a2c")> : is Waiting for Enable
+2022-08-30 10:07:27,094 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 10:07:28,621 :INFO : test_e2e :Successfully added the new user
+2022-08-30 10:07:34,095 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="f0697f70-7e1b-4e12-a562-bfaf3f9fbddc")> : is Waiting for Enable
+2022-08-30 10:07:34,095 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="f0697f70-7e1b-4e12-a562-bfaf3f9fbddc")> : is Waiting for Enable
+2022-08-30 10:07:34,095 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="f0697f70-7e1b-4e12-a562-bfaf3f9fbddc")> : is Waiting for Enable
+2022-08-30 10:07:34,154 :INFO : test_e2e :successfully deleted the user
+2022-08-30 10:07:38,556 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="be6805ab-f43b-44bc-897d-dba7060b6092")> : is Waiting for Enable
+2022-08-30 10:07:38,556 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="be6805ab-f43b-44bc-897d-dba7060b6092")> : is Waiting for Enable
+2022-08-30 10:07:38,556 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="be6805ab-f43b-44bc-897d-dba7060b6092")> : is Waiting for Enable
+2022-08-30 10:07:38,556 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="be6805ab-f43b-44bc-897d-dba7060b6092")> : is Waiting for Enable
+2022-08-30 10:07:38,599 :INFO : test_e2e :project created successfully
+2022-08-30 10:07:46,778 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="41d70538-c809-4df1-bb2c-80e24c5164e7")> : is Waiting for Enable
+2022-08-30 10:07:46,778 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="41d70538-c809-4df1-bb2c-80e24c5164e7")> : is Waiting for Enable
+2022-08-30 10:07:46,778 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="41d70538-c809-4df1-bb2c-80e24c5164e7")> : is Waiting for Enable
+2022-08-30 10:07:46,778 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="41d70538-c809-4df1-bb2c-80e24c5164e7")> : is Waiting for Enable
+2022-08-30 10:07:46,778 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="41d70538-c809-4df1-bb2c-80e24c5164e7")> : is Waiting for Enable
+2022-08-30 10:07:46,857 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="5a76daf0-863a-4218-9a48-27bf1418fa42")> : is Waiting for Enable
+2022-08-30 10:07:46,857 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="5a76daf0-863a-4218-9a48-27bf1418fa42")> : is Waiting for Enable
+2022-08-30 10:07:46,857 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="5a76daf0-863a-4218-9a48-27bf1418fa42")> : is Waiting for Enable
+2022-08-30 10:07:46,857 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="5a76daf0-863a-4218-9a48-27bf1418fa42")> : is Waiting for Enable
+2022-08-30 10:07:46,857 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="5a76daf0-863a-4218-9a48-27bf1418fa42")> : is Waiting for Enable
+2022-08-30 10:07:46,857 :INFO : waiting_until_item_enabled :<selenium.webdriver.remote.webelement.WebElement (session="b2d874b1c4eb94b8fe3964d26f1fe44d", element="5a76daf0-863a-4218-9a48-27bf1418fa42")> : is Waiting for Enable
