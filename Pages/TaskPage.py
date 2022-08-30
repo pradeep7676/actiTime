@@ -21,8 +21,7 @@ class TaskPage(BasePage):
     CLICK_ON_TASK = (By.CSS_SELECTOR, "div[class='node projectNode editable selected'] div[class='editButton']")
     ACTIONS = (By.XPATH, "(//div[@class='action'][normalize-space()='ACTIONS'])[2]")
     DELETE = (By.XPATH, "(//div[@class='title'][normalize-space()='Delete'])[2]")
-    DELETE_CONFIRMATION = (By.XPATH, "//div[@class='content_projectPanel']//div[@class='buttonIcon']")
-
+    DELETE_CONFIRMATION = (By.XPATH, "//div[@class='submitBtn withIcon commitBtn greyButton']//div[@class='buttonIcon']//span[text()='Delete permanently']")
 
     def __init__(self, driver):
         self.driver = driver
@@ -34,6 +33,7 @@ class TaskPage(BasePage):
     def add_new(self):
         self.wait_clickable(TaskPage.ADD_NEW)
         return self.driver.find_element(*TaskPage.ADD_NEW)
+
 
     def new_project(self):
         self.wait_clickable(TaskPage.NEW_PROJECT)
@@ -79,7 +79,7 @@ class TaskPage(BasePage):
         self.driver.execute_script("window.scrollTo(0,500);")
 
     def delete_confirmation(self):
-       # self.wait_clickable(TaskPage.DELETE_CONFIRMATION)
+        self.wait_visibilityOfElementLocated(TaskPage.DELETE_CONFIRMATION)
         return self.driver.find_element(*TaskPage.DELETE_CONFIRMATION)
 
 
