@@ -1,0 +1,316 @@
+2022-08-29 22:50:58,866 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-29 22:50:59,074 :INFO : test_e2e :Successfully logged in to the application
+2022-08-29 22:50:59,079 :INFO : test_e2e :successfully verified home page 
+2022-08-29 22:51:07,745 :INFO : test_e2e :userpage title verified
+2022-08-29 22:51:13,554 :INFO : test_e2e : successfully verified is user created or not
+2022-08-29 22:51:15,045 :INFO : test_e2e :Successfully added the new user
+2022-08-29 22:51:20,766 :INFO : test_e2e :successfully deleted the user
+2022-08-29 23:00:16,506 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-29 23:00:16,757 :INFO : test_e2e :Successfully logged in to the application
+2022-08-29 23:00:16,760 :INFO : test_e2e :successfully verified home page 
+2022-08-29 23:00:24,645 :INFO : test_e2e :userpage title verified
+2022-08-29 23:00:30,463 :INFO : test_e2e : successfully verified is user created or not
+2022-08-29 23:00:32,049 :INFO : test_e2e :Successfully added the new user
+2022-08-29 23:00:37,679 :INFO : test_e2e :successfully deleted the user
+2022-08-29 23:04:41,916 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-29 23:04:42,126 :INFO : test_e2e :Successfully logged in to the application
+2022-08-29 23:04:42,131 :INFO : test_e2e :successfully verified home page 
+2022-08-29 23:04:51,973 :INFO : test_e2e :userpage title verified
+2022-08-29 23:04:57,772 :INFO : test_e2e : successfully verified is user created or not
+2022-08-29 23:04:59,467 :INFO : test_e2e :Successfully added the new user
+2022-08-29 23:05:05,269 :INFO : test_e2e :successfully deleted the user
+2022-08-29 23:08:07,815 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-29 23:08:07,994 :INFO : test_e2e :Successfully logged in to the application
+2022-08-29 23:08:07,999 :INFO : test_e2e :successfully verified home page 
+2022-08-29 23:08:16,946 :INFO : test_e2e :userpage title verified
+2022-08-29 23:08:22,882 :INFO : test_e2e : successfully verified is user created or not
+2022-08-29 23:08:24,657 :INFO : test_e2e :Successfully added the new user
+2022-08-29 23:08:30,563 :INFO : test_e2e :successfully deleted the user
+2022-08-29 23:11:48,269 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-29 23:11:48,517 :INFO : test_e2e :Successfully logged in to the application
+2022-08-29 23:11:48,521 :INFO : test_e2e :successfully verified home page 
+2022-08-29 23:11:59,139 :INFO : test_e2e :userpage title verified
+2022-08-29 23:12:04,979 :INFO : test_e2e : successfully verified is user created or not
+2022-08-29 23:12:06,707 :INFO : test_e2e :Successfully added the new user
+2022-08-29 23:12:12,487 :INFO : test_e2e :successfully deleted the user
+2022-08-29 23:21:32,925 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-29 23:21:33,156 :INFO : test_e2e :Successfully logged in to the application
+2022-08-29 23:21:33,161 :INFO : test_e2e :successfully verified home page 
+2022-08-29 23:21:41,303 :INFO : test_e2e :userpage title verified
+2022-08-29 23:21:47,110 :INFO : test_e2e : successfully verified is user created or not
+2022-08-29 23:21:48,748 :INFO : test_e2e :Successfully added the new user
+2022-08-29 23:21:54,326 :INFO : test_e2e :successfully deleted the user
+2022-08-29 23:26:18,402 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-29 23:26:18,631 :INFO : test_e2e :Successfully logged in to the application
+2022-08-29 23:26:18,635 :INFO : test_e2e :successfully verified home page 
+2022-08-29 23:26:26,870 :INFO : test_e2e :userpage title verified
+2022-08-29 23:26:32,744 :INFO : test_e2e : successfully verified is user created or not
+2022-08-29 23:26:34,731 :INFO : test_e2e :Successfully added the new user
+2022-08-29 23:26:40,368 :INFO : test_e2e :successfully deleted the user
+2022-08-29 23:30:02,664 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-29 23:30:02,918 :INFO : test_e2e :Successfully logged in to the application
+2022-08-29 23:30:02,923 :INFO : test_e2e :successfully verified home page 
+2022-08-29 23:30:11,708 :INFO : test_e2e :userpage title verified
+2022-08-29 23:30:17,566 :INFO : test_e2e : successfully verified is user created or not
+2022-08-29 23:30:19,380 :INFO : test_e2e :Successfully added the new user
+2022-08-29 23:30:24,992 :INFO : test_e2e :successfully deleted the user
+2022-08-29 23:31:44,839 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-29 23:31:45,060 :INFO : test_e2e :Successfully logged in to the application
+2022-08-29 23:31:45,066 :INFO : test_e2e :successfully verified home page 
+2022-08-29 23:32:01,715 :INFO : test_e2e :userpage title verified
+2022-08-29 23:32:07,667 :INFO : test_e2e : successfully verified is user created or not
+2022-08-29 23:32:09,426 :INFO : test_e2e :Successfully added the new user
+2022-08-29 23:32:15,031 :INFO : test_e2e :successfully deleted the user
+2022-08-29 23:34:18,992 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-29 23:34:19,241 :INFO : test_e2e :Successfully logged in to the application
+2022-08-29 23:34:19,251 :INFO : test_e2e :successfully verified home page 
+2022-08-29 23:34:26,987 :INFO : test_e2e :userpage title verified
+2022-08-29 23:34:32,911 :INFO : test_e2e : successfully verified is user created or not
+2022-08-29 23:34:34,376 :INFO : test_e2e :Successfully added the new user
+2022-08-29 23:34:40,002 :INFO : test_e2e :successfully deleted the user
+2022-08-29 23:36:06,789 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-29 23:36:07,014 :INFO : test_e2e :Successfully logged in to the application
+2022-08-29 23:36:07,018 :INFO : test_e2e :successfully verified home page 
+2022-08-29 23:36:14,957 :INFO : test_e2e :userpage title verified
+2022-08-29 23:36:20,899 :INFO : test_e2e : successfully verified is user created or not
+2022-08-29 23:36:22,372 :INFO : test_e2e :Successfully added the new user
+2022-08-29 23:36:27,928 :INFO : test_e2e :successfully deleted the user
+2022-08-29 23:40:16,257 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-29 23:40:16,481 :INFO : test_e2e :Successfully logged in to the application
+2022-08-29 23:40:16,485 :INFO : test_e2e :successfully verified home page 
+2022-08-29 23:40:26,014 :INFO : test_e2e :userpage title verified
+2022-08-29 23:40:31,912 :INFO : test_e2e : successfully verified is user created or not
+2022-08-29 23:40:33,421 :INFO : test_e2e :Successfully added the new user
+2022-08-29 23:40:39,041 :INFO : test_e2e :successfully deleted the user
+2022-08-30 08:30:30,440 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 08:30:30,586 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 08:30:30,595 :INFO : test_e2e :successfully verified home page 
+2022-08-30 08:30:37,782 :INFO : test_e2e :userpage title verified
+2022-08-30 08:30:43,225 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 08:30:44,691 :INFO : test_e2e :Successfully added the new user
+2022-08-30 08:30:50,111 :INFO : test_e2e :successfully deleted the user
+2022-08-30 08:31:30,240 :INFO : test_e2e :task deleted
+2022-08-30 08:32:36,862 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 08:32:36,985 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 08:32:36,989 :INFO : test_e2e :successfully verified home page 
+2022-08-30 08:32:44,346 :INFO : test_e2e :userpage title verified
+2022-08-30 08:32:49,787 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 08:32:51,441 :INFO : test_e2e :Successfully added the new user
+2022-08-30 08:32:56,750 :INFO : test_e2e :successfully deleted the user
+2022-08-30 08:35:30,786 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 08:35:30,911 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 08:35:30,913 :INFO : test_e2e :successfully verified home page 
+2022-08-30 08:35:38,047 :INFO : test_e2e :userpage title verified
+2022-08-30 08:35:43,466 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 08:35:45,124 :INFO : test_e2e :Successfully added the new user
+2022-08-30 08:35:50,449 :INFO : test_e2e :successfully deleted the user
+2022-08-30 08:37:15,327 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 08:37:15,455 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 08:37:15,463 :INFO : test_e2e :successfully verified home page 
+2022-08-30 08:37:22,270 :INFO : test_e2e :userpage title verified
+2022-08-30 08:37:27,730 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 08:37:29,128 :INFO : test_e2e :Successfully added the new user
+2022-08-30 08:37:34,453 :INFO : test_e2e :successfully deleted the user
+2022-08-30 08:38:41,990 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 08:38:42,117 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 08:38:42,118 :INFO : test_e2e :successfully verified home page 
+2022-08-30 08:38:49,525 :INFO : test_e2e :userpage title verified
+2022-08-30 08:38:54,981 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 08:38:56,398 :INFO : test_e2e :Successfully added the new user
+2022-08-30 08:39:01,717 :INFO : test_e2e :successfully deleted the user
+2022-08-30 08:48:11,063 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 08:48:11,190 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 08:48:11,197 :INFO : test_e2e :successfully verified home page 
+2022-08-30 08:48:17,949 :INFO : test_e2e :userpage title verified
+2022-08-30 08:48:23,405 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 08:48:24,752 :INFO : test_e2e :Successfully added the new user
+2022-08-30 08:48:30,106 :INFO : test_e2e :successfully deleted the user
+2022-08-30 08:48:35,529 :INFO : test_e2e :project created successfully
+2022-08-30 08:48:51,402 :INFO : test_e2e :task deleted
+2022-08-30 08:48:59,529 :INFO : test_e2e :logout from the application successfully
+2022-08-30 08:52:36,052 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 08:52:36,178 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 08:52:36,181 :INFO : test_e2e :successfully verified home page 
+2022-08-30 08:52:43,211 :INFO : test_e2e :userpage title verified
+2022-08-30 08:52:48,644 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 08:52:50,057 :INFO : test_e2e :Successfully added the new user
+2022-08-30 08:52:55,413 :INFO : test_e2e :successfully deleted the user
+2022-08-30 08:53:01,921 :INFO : test_e2e :project created successfully
+2022-08-30 08:54:54,203 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 08:54:54,325 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 08:54:54,332 :INFO : test_e2e :successfully verified home page 
+2022-08-30 08:55:01,815 :INFO : test_e2e :userpage title verified
+2022-08-30 08:55:07,261 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 08:55:08,734 :INFO : test_e2e :Successfully added the new user
+2022-08-30 08:55:14,264 :INFO : test_e2e :successfully deleted the user
+2022-08-30 08:56:50,030 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 08:56:50,157 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 08:56:50,160 :INFO : test_e2e :successfully verified home page 
+2022-08-30 08:56:57,359 :INFO : test_e2e :userpage title verified
+2022-08-30 08:57:02,794 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 08:57:04,542 :INFO : test_e2e :Successfully added the new user
+2022-08-30 08:57:09,848 :INFO : test_e2e :successfully deleted the user
+2022-08-30 08:57:14,438 :INFO : test_e2e :project created successfully
+2022-08-30 08:59:31,943 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 08:59:32,066 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 08:59:32,077 :INFO : test_e2e :successfully verified home page 
+2022-08-30 08:59:39,280 :INFO : test_e2e :userpage title verified
+2022-08-30 08:59:44,747 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 08:59:46,160 :INFO : test_e2e :Successfully added the new user
+2022-08-30 08:59:51,728 :INFO : test_e2e :successfully deleted the user
+2022-08-30 08:59:55,608 :INFO : test_e2e :project created successfully
+2022-08-30 09:02:17,064 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:02:17,219 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:02:17,224 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:02:25,131 :INFO : test_e2e :userpage title verified
+2022-08-30 09:02:30,582 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:02:32,290 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:02:37,667 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:02:41,608 :INFO : test_e2e :project created successfully
+2022-08-30 09:05:31,504 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:05:31,636 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:05:31,645 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:05:38,945 :INFO : test_e2e :userpage title verified
+2022-08-30 09:05:44,414 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:05:45,782 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:05:51,084 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:08:17,383 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:08:17,510 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:08:17,513 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:08:24,504 :INFO : test_e2e :userpage title verified
+2022-08-30 09:08:29,971 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:08:31,416 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:08:36,718 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:08:41,064 :INFO : test_e2e :project created successfully
+2022-08-30 09:09:33,857 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:09:33,987 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:09:33,996 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:09:41,316 :INFO : test_e2e :userpage title verified
+2022-08-30 09:09:46,766 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:09:48,268 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:09:53,626 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:12:00,649 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:12:00,778 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:12:00,783 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:12:08,382 :INFO : test_e2e :userpage title verified
+2022-08-30 09:12:13,863 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:12:15,275 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:12:20,841 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:13:45,474 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:13:45,596 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:13:45,607 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:13:52,701 :INFO : test_e2e :userpage title verified
+2022-08-30 09:13:58,136 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:13:59,760 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:14:05,144 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:14:10,244 :INFO : test_e2e :project created successfully
+2022-08-30 09:15:17,402 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:15:17,514 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:15:17,516 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:15:24,868 :INFO : test_e2e :userpage title verified
+2022-08-30 09:15:30,345 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:15:31,826 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:15:37,243 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:15:43,890 :INFO : test_e2e :project created successfully
+2022-08-30 09:16:39,708 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:16:39,841 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:16:39,848 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:16:48,061 :INFO : test_e2e :userpage title verified
+2022-08-30 09:16:53,530 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:16:54,971 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:17:00,388 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:17:11,047 :INFO : test_e2e :project created successfully
+2022-08-30 09:17:54,935 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:17:55,067 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:17:55,076 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:18:03,064 :INFO : test_e2e :userpage title verified
+2022-08-30 09:18:08,558 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:18:10,468 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:18:16,042 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:19:39,623 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:19:39,751 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:19:39,758 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:19:47,907 :INFO : test_e2e :userpage title verified
+2022-08-30 09:19:53,406 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:19:54,832 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:20:00,167 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:20:05,473 :INFO : test_e2e :project created successfully
+2022-08-30 09:22:07,400 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:22:07,517 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:22:07,525 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:22:14,545 :INFO : test_e2e :userpage title verified
+2022-08-30 09:22:20,005 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:22:21,719 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:22:27,259 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:22:31,892 :INFO : test_e2e :project created successfully
+2022-08-30 09:24:58,357 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:24:58,478 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:24:58,480 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:25:10,659 :INFO : test_e2e :userpage title verified
+2022-08-30 09:25:16,100 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:25:19,361 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:25:25,255 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:26:10,004 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:26:10,123 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:26:10,132 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:26:18,284 :INFO : test_e2e :userpage title verified
+2022-08-30 09:26:23,747 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:26:25,173 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:26:30,668 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:26:38,643 :INFO : test_e2e :project created successfully
+2022-08-30 09:29:41,538 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:29:41,665 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:29:41,669 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:29:49,503 :INFO : test_e2e :userpage title verified
+2022-08-30 09:29:54,983 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:29:56,463 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:30:01,773 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:30:07,349 :INFO : test_e2e :project created successfully
+2022-08-30 09:30:57,690 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:30:57,816 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:30:57,826 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:31:05,233 :INFO : test_e2e :userpage title verified
+2022-08-30 09:31:10,722 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:31:12,263 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:31:17,761 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:31:22,789 :INFO : test_e2e :project created successfully
+2022-08-30 09:33:00,894 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:33:01,022 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:33:01,025 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:33:08,987 :INFO : test_e2e :userpage title verified
+2022-08-30 09:33:14,445 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:33:15,981 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:33:21,376 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:33:25,827 :INFO : test_e2e :project created successfully
+2022-08-30 09:34:46,122 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:34:46,271 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:34:46,276 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:34:53,554 :INFO : test_e2e :userpage title verified
+2022-08-30 09:34:59,011 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:35:00,747 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:35:06,928 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:35:12,445 :INFO : test_e2e :project created successfully
+2022-08-30 09:40:55,839 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:40:55,992 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:40:55,996 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:41:04,462 :INFO : test_e2e :userpage title verified
+2022-08-30 09:41:09,948 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:41:11,435 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:41:16,821 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:41:22,029 :INFO : test_e2e :project created successfully
+2022-08-30 09:42:43,941 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:42:44,166 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:42:44,172 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:42:51,992 :INFO : test_e2e :userpage title verified
+2022-08-30 09:42:57,583 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:42:59,057 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:43:04,533 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:43:09,763 :INFO : test_e2e :project created successfully
+2022-08-30 09:44:23,380 :INFO : test_e2e :Successfully verified loginPage title
+2022-08-30 09:44:23,509 :INFO : test_e2e :Successfully logged in to the application
+2022-08-30 09:44:23,512 :INFO : test_e2e :successfully verified home page 
+2022-08-30 09:44:30,837 :INFO : test_e2e :userpage title verified
+2022-08-30 09:44:36,310 :INFO : test_e2e : successfully verified is user created or not
+2022-08-30 09:44:37,788 :INFO : test_e2e :Successfully added the new user
+2022-08-30 09:44:43,201 :INFO : test_e2e :successfully deleted the user
+2022-08-30 09:44:47,906 :INFO : test_e2e :project created successfully
