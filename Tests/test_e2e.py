@@ -9,12 +9,13 @@ from Pages.AddNewUsers import UserPage
 from Pages.DeletingUsers import DeleteUserPage
 from Pages.Department import DepartmentPage
 from Pages.LoginPage import LoginPage
+from Pages.TaskPage import TaskPage
 from Utilities.BasePage import BasePage
 
 
 class Test_Actitime(BasePage):
     def test_e2e(self, params):
-        log = getLogger()
+        log = self.getLogger()
         self.driver.implicitly_wait(10)
         ''' To verify LoginPage '''
         title = self.driver.title
@@ -25,20 +26,25 @@ class Test_Actitime(BasePage):
         login_obj = LoginPage(self.driver)
 
         '''Entering user name password to login'''
+        login_obj.user_name().clear()
         login_obj.user_name().send_keys(params['username'])
+        login_obj.password().clear()
         login_obj.password().send_keys(params['password'])
+        login_obj.waiting_until_item_enabled( login_obj.login_button())
         login_obj.login_button().click()
         log.info("Successfully logged in to the application")
 
         '''to verify home page Title'''
-        home_title=self.driver.title
+        home_title = self.driver.title
         assert home_title == TestData.HOME_PAGE_TITLE
         log.info("successfully verified home page ")
 
         '''initialize UserPage object'''
         userPage = UserPage(self.driver)
+
         '''To click on users icon'''
         userPage.users_icon().click()
+
         '''To click on new user button'''
         user = self.driver.title
         assert user == TestData.USER_PAGE_TITLE
@@ -84,24 +90,60 @@ class Test_Actitime(BasePage):
         alert.accept()
         log.info("successfully deleted the user")
 
-        '''Initialize DepartmentPage object'''
+        '''Initialize DepartmentPage object
         department_obj = DepartmentPage(self.driver)
 
-        '''To click on department'''
+        To click on department
         time.sleep(4)
         department_obj.click_on_department().click()
 
-        '''To create new Department'''
+        To create new Departmen
         department_obj.add_department_name().send_keys(params['departmentname'])
         department_obj.add_department_name().send_keys(Keys.ENTER)
         time.sleep(4)
-        department_obj.delete_department().click()
+        #department_obj.delete_department().click()
         department_obj.close().click()
         #department_obj.delete_confirmation().click()
-        log.info("Successfully deleted the department")
+        log.info("Successfully deleted the department")'''
 
-        '''To click on logout'''
+        task_obj = TaskPage(self.driver)
+        #time.sleep(5)
+        '''To click on task button'''
+        task_obj.task_icon().click()
+
+        '''To click on add new'''
+        task_obj.add_new().click()
+
+        '''to click on new project'''
+        task_obj.new_project().click()
+
+        '''to enter project name'''
+        task_obj.project_name().send_keys("REDDY8")
+
+        '''to select customer'''
+        task_obj.customer().click()
+        task_obj.select_customer().click()
+
+        '''To enter task name'''
+        task_obj.task_name().send_keys("login")
+        task_obj.create_project().click()
+        log.info("project created successfully")
+
+        '''TO search product delete it'''
+        task_obj.Search_project().send_keys("REDDY8")
+        time.sleep(5)
+        task_obj.click_on_task().click()
+
+        '''To click on action and delete button'''
+        time.sleep(3)
+        task_obj.actions().click()
+        task_obj.delete().click()
+        task_obj.scroll()
+        task_obj.delete_confirmation().click()
+        log.info("task deleted")
+
         login_obj.logout().click()
+        time.sleep(5)
         log.info("logout from the application successfully")
 
 

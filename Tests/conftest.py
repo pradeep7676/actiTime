@@ -31,8 +31,9 @@ def setup(request):
         s = Service(TestData.fireFox_executablepath)
         driver = webdriver.Firefox(service=s)
 
-    driver.get(TestData.baseUrl)
     driver.maximize_window()
+    driver.get(TestData.baseUrl)
+
     request.cls.driver = driver
     yield
 
